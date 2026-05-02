@@ -2,6 +2,8 @@
 
 Loop is a circular economy marketplace built to keep usable waste materials out of landfills by matching them with buyers, makers, and upcyclers.
 
+![Loop UI Mockup](./public/loop_ui.png)
+
 ## Features
 - **Next.js 14 App Router** + **Tailwind CSS v4** + **shadcn/ui**
 - **Supabase** with PostgreSQL and PostGIS for radius-based geo-searches
